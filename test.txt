@@ -1,1 +1,2 @@
 Hello, Welcome to git tutorial
+In next video we will learn add commit push commands
